@@ -1,1 +1,1 @@
-### Aim of the experiment
+Study of characteristics curve of backward bladed axial fan.
